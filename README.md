@@ -12,4 +12,4 @@ I am passionate about developing intuitive user interfaces that provide seamless
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahohulia&theme=dark&layout=compact&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yahohulia&theme=radical&column=7)
+[![](https://grid-graph.vercel.app/api/graph?username=yahohulia&theme=neon)](https://github.com/yahohulia)
