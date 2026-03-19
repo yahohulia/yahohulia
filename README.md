@@ -20,7 +20,6 @@ I am passionate about developing intuitive user interfaces that provide seamless
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yahohulia&theme=dark&show_icons=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yahohulia&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahohulia&theme=dark&layout=compact&hide_border=false)
 
