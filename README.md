@@ -1,12 +1,16 @@
 # 💫 About Me:
-I'm a front-end developer with a strong foundation in HTML, CSS, JavaScript, and TypeScript 🚀. 
-I specialize in building scalable web applications using React and Redux ⚛️, focusing on creating clean, maintainable code 💻. 
-I am passionate about developing intuitive user interfaces that provide seamless digital experiences ✨.
+Full-Stack Developer with experience building end-to-end web applications - from pixel-perfect UIs to scalable server-side architecture 🚀.
+On the frontend, I work with React, Vue.js, and TypeScript
+On the backend - Node.js, Express.js, PostgreSQL, and TypeORM 💻.
+
+I enjoy challenges that involve complex logic, state management, and building products that are both functional and intuitive ✨.
 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
